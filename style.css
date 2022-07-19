@@ -184,6 +184,11 @@ body {
     border-top: 1px solid var(--color-red);
     border-bottom: 1px solid var(--color-red);
 }
+
+.name__one {
+    text-align: center;
+}
+
 /* ========== MEDIA QUERIES (MEDIUM DEVICES) ========== */
 @media screen and (max-width: 1024px) {
     .container {
